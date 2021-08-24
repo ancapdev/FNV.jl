@@ -1,7 +1,7 @@
-using FNV
+using FNVHash
 using Test
 
-@testset "FNV.jl" begin
+@testset "FNVHash.jl" begin
 
 @testset "type $T" for T in [UInt32, UInt64, UInt128] 
     @test fnv1(T, "test") isa T

@@ -1,4 +1,4 @@
-module FNV
+module FNVHash
 
 export fnv1, fnv1a, fnv_offset_basis, fnv_prime
 

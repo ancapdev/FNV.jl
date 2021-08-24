@@ -1,4 +1,4 @@
-name = "FNV"
+name = "FNVHash"
 uuid = "5207ad80-27db-4d23-8732-fa0bd339ea89"
 authors = ["Christian Rorvik <christian.rorvik@gmail.com>"]
 version = "0.1.0"
