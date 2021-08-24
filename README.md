@@ -1,6 +1,6 @@
 # FNVHash
 
-[![Build Status](https://github.com/ancapdev/FNV.jl/workflows/CI/badge.svg)](https://github.com/ancapdev/FNV.jl/actions)
+[![Build Status](https://github.com/ancapdev/FNVHash.jl/workflows/CI/badge.svg)](https://github.com/ancapdev/FNVHash.jl/actions)
 
 Implementations of the Fowler–Noll–Vo hash functions.
 See [Wikipedia](https://en.wikipedia.org/wiki/Fowler%E2%80%93Noll%E2%80%93Vo_hash_function) for details.
